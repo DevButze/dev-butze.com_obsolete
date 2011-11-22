@@ -1,0 +1,28 @@
+body, html {
+}
+.header {
+    margin-top: 40px;
+}
+
+.footer {
+    padding-top: 60px;
+    padding-bottom: 30px;
+    background-image: url('../images/dark_leather.png');
+    position:fixed;
+    bottom:0px;
+	width: 100%;
+}
+.container {
+    padding-bottom: 0px;
+}
+.center {
+	position: absolute;
+	left: 50%;
+	top: 30%;
+	width: 30px;
+	margin-left: -15px;
+	height: 30px;
+}
+.col-center  {
+	text-align: center;
+}
